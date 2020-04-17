@@ -5,3 +5,5 @@ gitの練習をしていきます。
 ・git remove
 ・git status
 ・git diff
+
+2020/4/17　テスト
